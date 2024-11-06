@@ -1,0 +1,19 @@
+# pack-refs with: peeled fully-peeled sorted 
+04aee52363688426eab74f5d6180c149654a6473 refs/heads/master
+20121f31d144860160bfd48c5b5dc83acf283c67 refs/tags/ming-0_3_0
+9f7472243b54186c2e042470f9306cc6c106f841 refs/tags/ming-0_3_beta2
+5a26d0dbb87436bf9ffb6fe37dc24627bd4dd9e3 refs/tags/ming-0_4_0_beta3
+226d6bce806a7d58c5969f7a7ef4d710d8cf4699 refs/tags/ming-0_4_0_beta4
+d2171b84821b707cc4da702556f324d99d92938f refs/tags/ming-0_4_0_beta5
+582b20df63809f73987b309062add068307a779a refs/tags/ming-0_4_0_rc1
+e2e45acd035ea2e2c8a68f2b18fb2ea2e163d2b9 refs/tags/ming-0_4_0_rc2
+cdf51fcbe7d898a445fe69397c1224a79169e0fd refs/tags/ming-0_4_3
+02d5b25086d94ddc678d19f787f49ef7915319c5 refs/tags/ming-0_4_4
+c75b874f86b441e2d7ef3ffa7f8672723c327b76 refs/tags/ming-0_4_5
+4e7e488bbac09a3e36e43d375f9aa4246e7b06d5 refs/tags/ming-0_4_6
+^debc249b4eeb97b050e7cac1847fa1f8ca35decb
+fa09ec318b9241fd5b3bd1eb24796fb3c3c66d8a refs/tags/ming-0_4_7
+^6f91d1aa8f2351c2226020df015d3f05e453f3ee
+9e8636469a490fd7ae8347c3520db9da09b9b1a2 refs/tags/ming-0_4_8
+^b72cc2fda0e8b3792b7b3f7361fc3f917f269433
+a51a8f264530dc2f6fdc16e8e25a7f6f4c1757b4 refs/tags/start
